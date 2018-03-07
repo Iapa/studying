@@ -11,4 +11,5 @@
   * [apps interact](coreAndroid/apps-interact.md)
 * [Core Java](core-java.md)
   * [Auto-Boxing](core-java/auto-boxing.md)
+* [Core Kotlin](core-kotlin.md)
 

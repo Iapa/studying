@@ -59,15 +59,12 @@ calendarIntent.putExtra(Events.EVENT_LOCATION, "Secret dojo");
 
 **Note:**This intent for a calendar event is supported only with API level 14 and higher.
 
-
-
 **Verify There is an App to Receive the Intent**
 
-Although the Android platform guarantees that certain intents will resolve to one of the built-in apps \(such as the Phone, Email, or Calendar app\), you should always include a verification step before invoking an intent.  
-  
+Although the Android platform guarantees that certain intents will resolve to one of the built-in apps \(such as the Phone, Email, or Calendar app\), you should always include a verification step before invoking an intent.
+
 **Caution:**If you invoke an intent and there is no app available on the device that can handle the intent, your app will crash.
 
-  
 To verify there is an activity available that can respond to the intent, call[`queryIntentActivities()`](https://developer.android.com/reference/android/content/pm/PackageManager.html#queryIntentActivities%28android.content.Intent, int%29)to get a list of activities capable of handling your[`Intent`](https://developer.android.com/reference/android/content/Intent.html). If the returned[`List`](https://developer.android.com/reference/java/util/List.html)is not empty, you can safely use the intent. For example:
 
 ```
@@ -77,11 +74,8 @@ List<ResolveInfo> activities = packageManager.queryIntentActivities(intent,
 boolean isIntentSafe = activities.size() > 0;
 ```
 
-  
-  
-  
-  
+If`isIntentSafe`is`true`, then at least one app will respond to the intent. If it is`false`, then there aren't any apps to handle the intent.
 
-
+  
 
 
