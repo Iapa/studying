@@ -8,6 +8,7 @@
   * [parcelable VS serializable](coreAndroid/parcelable-vs-serializable.md)
   * [performnace tips\(smooth running app\)](coreAndroid/performnace-tipssmooth-running-app.md)
   * [Memory Leaks](coreAndroid/memory-leaks.md)
+  * [apps interact](coreAndroid/apps-interact.md)
 * [Core Java](core-java.md)
   * [Auto-Boxing](core-java/auto-boxing.md)
 

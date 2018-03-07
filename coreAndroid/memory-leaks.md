@@ -23,10 +23,10 @@ Never use`context`as static.
 
 ```
 public class MainActivity extends AppCompatActivity {
-  
+
   private static Button button; //NEVER USE LIKE THIS
   private static Context context; //NEVER USE LIKE THIS TOO
-  
+
 }
 ```
 
@@ -38,6 +38,22 @@ For better understanding about context,[**refer**](https://blog.mindorks.com/und
 
 #### Never forget to say goodbye to listeners after being served.
 
-Do not forget to unregister your listeners in`onPause`/`onStop`/`onDestroy`method. By not unregistering, it always keeps the activity alive and keeps waiting for listeners.  
+Do not forget to unregister your listeners in`onPause`/`onStop`/`onDestroy`method. By not unregistering, it always keeps the activity alive and keeps waiting for listeners.
+
+#### **Using inner class**
+
+If you are using an inner class, use this as static because static class does not need the outer class implicit reference. Using inner class as non static makes the outer class alive so it is better to avoid.  
+And if you are using views in static class, pass it in the constructor and use it as a weak reference.
+
+#### **Using anonymous class**
+
+This is very similar to non static inner classes as it is very helpful but still avoid using an anonymous class.
+
+#### **Using views in collection**
+
+Avoid putting views in collections that do not have clear memory pattern.`WeakHashMap`store views as values. Since`WeakHashMap`store views as a hard reference it is better to avoid using it.
+
+
+
 
 
