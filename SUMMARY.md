@@ -10,6 +10,7 @@
   * [Memory Leaks](coreAndroid/memory-leaks.md)
   * [apps interact](coreAndroid/apps-interact.md)
   * [Handler vs AsyncTask vs Thread](coreAndroid/handler-vs-asynctask-vs-thread.md)
+  * [DVM VS ART](coreAndroid/dvm-vs-art.md)
 * [Core Java](core-java.md)
   * [Auto-Boxing](core-java/auto-boxing.md)
 * [Core Kotlin](core-kotlin.md)
