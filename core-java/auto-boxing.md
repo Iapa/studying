@@ -74,8 +74,6 @@ one == anotherOne : false
 
 值得注意的是第三个小例子，这是一种极端情况。obj1和obj2的初始化都发生了自动装箱操作。但是处于节省内存的考虑，JVM会缓存-128到127的Integer对象。因为obj1和obj2实际上是同一个对象。所以使用”==“比较返回true。
 
-
-
 ### 容易混乱的对象和原始数据值
 
 另一个需要避免的问题就是混乱使用对象和原始数据值，一个具体的例子就是当我们在一个原始数据值与一个对象进行比较时，如果这个对象没有进行初始化或者为Null，在自动拆箱过程中obj.xxxValue，会抛出NullPointerException,如下面的代码：
@@ -102,4 +100,8 @@ if( count <= 0){
 如想了解垃圾回收和内存优化，可以查看本文[Google IO：Android内存管理主题演讲记录](http://droidyue.com/blog/2014/11/02/note-for-google-io-memory-management-for-android-chinese-edition/)
 
 总的来说，自动装箱和拆箱着实为开发者带来了很大的方便，但是在使用时也是需要格外留意，避免引起出现文章提到的问题。
+
+
+
+http://javarevisited.blogspot.jp/2012/07/auto-boxing-and-unboxing-in-java-be.html
 
