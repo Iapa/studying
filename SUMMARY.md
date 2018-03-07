@@ -6,4 +6,6 @@
   * [9Patch VS Bitmap](coreAndroid/9patch-vs-bitmap.md)
   * [Bitmap Pools](coreAndroid/bitmap-pools.md)
   * [parcelable VS serializable](coreAndroid/parcelable-vs-serializable.md)
+* [Core Java](core-java.md)
+  * [Auto-Boxing](core-java/auto-boxing.md)
 
