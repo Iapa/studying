@@ -14,11 +14,13 @@
   * [LruCache](coreAndroid/lrucache.md)
   * [Processes](coreAndroid/processes.md)
 * [Core Java](core-java.md)
-  * Sockt
+  * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)
   * [io](core-java/io.md)
   * [volitile](core-java/volitile.md)
   * [Auto-Boxing](core-java/auto-boxing.md)
   * [synchronized](core-java/synchronized.md)
+  * [exception](core-java/exception.md)
+  * [classLoader](core-java/classloader.md)
 * [Core Kotlin](core-kotlin.md)
 
