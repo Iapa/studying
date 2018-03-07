@@ -1,8 +1,6 @@
-The official Kotlin website [Koltin官网](https://kotlinlang.org/)
+The official Kotlin website [Koltin](https://kotlinlang.org/)
 
-webIDE [Koltin在线练习](https://try.kotlinlang.org)
-
-kotlin Books [Kotlin书籍](https://kotlinlang.org/docs/books.html)
+[awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
 
 Get Started with Kotlin on Android [Kotlin and Android](https://developer.android.com/kotlin/index.html)
 
@@ -16,7 +14,7 @@ Get Started with Kotlin on Android [Kotlin and Android](https://developer.androi
 
 [Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)
 
-[A complete guide to learn koltin for android development](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8)  
+[A complete guide to learn koltin for android development](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8)
 
 [awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin)
 
@@ -34,9 +32,17 @@ Get Started with Kotlin on Android [Kotlin and Android](https://developer.androi
 
 **kotlin projects for android:**
 
+[android-ktx](https://github.com/android/android-ktx)
+
+[anko](https://github.com/Kotlin/anko)
+
+[shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+
 [clean-architecture-components-boilerplate](#)
 
 [Simple Mobile Tools](https://github.com/SimpleMobileTools) all projects
+
+[awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android)
 
 
 
