@@ -14,11 +14,13 @@ Get Started with Kotlin on Android [Kotlin and Android](https://developer.androi
 
 [You can do better with Kotlin](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
 
+[Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)
 
+[A complete guide to learn koltin for android development](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8)  
 
+[awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin)
 
-
-Video：
+**Video：**
 
 [Life is Great and Everything Will Be Ok, Kotlin is Here \(Google I/O '17\)](https://www.youtube.com/watch?v=fPzxfeDJDzY)
 
@@ -30,13 +32,11 @@ Video：
 
 [You can do better with Kotlin](https://www.youtube.com/watch?v=bVuhlusXdZ4)
 
+**kotlin projects for android:**
 
+[clean-architecture-components-boilerplate](#)
 
-一些项目：
-
-# [**clean-architecture-components-boilerplate**](https://github.com/bufferapp/clean-architecture-components-boilerplate)
-
-# [Simple Mobile Tools的各种应用](https://github.com/SimpleMobileTools)
+[Simple Mobile Tools](https://github.com/SimpleMobileTools) all projects
 
 
 
