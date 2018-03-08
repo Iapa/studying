@@ -14,6 +14,8 @@
   * [LruCache](coreAndroid/lrucache.md)
   * [Processes](coreAndroid/processes.md)
   * [IPC](coreAndroid/ipc.md)
+  * [Bound Services](coreAndroid/bound-services.md)
+  * [AIDL](coreAndroid/aidl.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)
