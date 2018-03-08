@@ -13,6 +13,7 @@
   * [DVM VS ART](coreAndroid/dvm-vs-art.md)
   * [LruCache](coreAndroid/lrucache.md)
   * [Processes](coreAndroid/processes.md)
+  * [IPC](coreAndroid/ipc.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)

@@ -1,3 +1,14 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Geek指的是一种精神象征，一种生活态度，一种人生哲学。
+
+Geek特征：
+
+* 好奇心
+* 热情
+* 乐于分享
+* 探索 创新
+* 喜欢冒险
+
+
+
