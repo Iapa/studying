@@ -25,5 +25,6 @@
   * [synchronized](core-java/synchronized.md)
   * [exception](core-java/exception.md)
   * [classLoader](core-java/classloader.md)
+  * [abstract vs interface](core-java/abstract-vs-interface.md)
 * [Core Kotlin](core-kotlin.md)
 
