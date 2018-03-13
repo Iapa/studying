@@ -24,14 +24,26 @@ Here is an illustration of that:
 
 ![](/assets/nio_channels_buffers.png)
 
-Here is a list of the primary `Channel` implementatttions in java NIO:
+_Here is a list of the primary `Channel` implementatttions in java NIO:_
 
-* FileChannel
-* DatagramChannel
-* SocketChannel
-* ServerSocketChannel
+* _FileChannel_
+* _DatagramChannel_
+* _SocketChannel_
+* _ServerSocketChannel_
 
 these channels cover DDP + TCP network IO,and file IO.
+
+Here is a list of the core `Buffer` implementations in Java NIO:
+
+* ByteBuffer
+* CharBuffer
+* DoubleBuffer
+* FloatBuffer
+* IntBuffer
+* LongBuffer
+* ShortBuffer
+
+
 
 
 
