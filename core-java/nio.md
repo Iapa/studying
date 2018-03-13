@@ -51,5 +51,5 @@ Java NIO also has a `MappedByteBuffer` which is used in conjunction with memory 
 
 A `Selector` allows a single thread to handle multiple `Channel`'s This is handy if your application has many connections\(Channels\)open , but only has low traffic on each connection. For instance, in a chat server.
 
-
+Here is an illustration of a thread using a `Selector` to handle 3 `Channel's`
 
