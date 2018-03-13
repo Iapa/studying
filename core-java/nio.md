@@ -33,7 +33,7 @@ _Here is a list of the primary _`Channel`_ implementatttions in java NIO:_
 
 these channels cover DDP + TCP network IO,and file IO.
 
-_Here is a list of the core `Buffer` implementations in Java NIO:_
+_Here is a list of the core _`Buffer`_ implementations in Java NIO:_
 
 * _ByteBuffer_
 * _CharBuffer_
@@ -44,4 +44,6 @@ _Here is a list of the core `Buffer` implementations in Java NIO:_
 * _ShortBuffer_
 
 These `Buffer`'s cover the basic data types that you can send via IO: byte, short, int, long, float, double, and characters.
+
+Java NIO also has a `MappedByteBuffer` which is used in conjunction with memory mapped files. I'll leave this `Buffer` out of this overview though.
 
