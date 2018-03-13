@@ -24,7 +24,7 @@ Here is an illustration of that:
 
 ![](/assets/nio_channels_buffers.png)
 
-_Here is a list of the primary `Channel` implementatttions in java NIO:_
+_Here is a list of the primary _`Channel`_ implementatttions in java NIO:_
 
 * _FileChannel_
 * _DatagramChannel_
@@ -33,17 +33,15 @@ _Here is a list of the primary `Channel` implementatttions in java NIO:_
 
 these channels cover DDP + TCP network IO,and file IO.
 
-Here is a list of the core `Buffer` implementations in Java NIO:
+_Here is a list of the core `Buffer` implementations in Java NIO:_
 
-* ByteBuffer
-* CharBuffer
-* DoubleBuffer
-* FloatBuffer
-* IntBuffer
-* LongBuffer
-* ShortBuffer
+* _ByteBuffer_
+* _CharBuffer_
+* _DoubleBuffer_
+* _FloatBuffer_
+* _IntBuffer_
+* _LongBuffer_
+* _ShortBuffer_
 
-
-
-
+These `Buffer`'s cover the basic data types that you can send via IO: byte, short, int, long, float, double, and characters.
 
