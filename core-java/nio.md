@@ -51,5 +51,9 @@ Java NIO also has a `MappedByteBuffer` which is used in conjunction with memory 
 
 A `Selector` allows a single thread to handle multiple `Channel`'s This is handy if your application has many connections\(Channels\)open , but only has low traffic on each connection. For instance, in a chat server.
 
-Here is an illustration of a thread using a `Selector` to handle 3 `Channel's`
+Here is an illustration of a thread using a `Selector` to handle 3 `Channel's:`
+
+![](/assets/nio_selectors.png)
+
+To use a `Selector` you register the `Channel`'s with it. Then you call it's `select()` method. This method will block until there is an event ready for one of the registered channels. Once the method returns.the  thread can then process these events.Examples of events are incoming connection, data received etc.
 
