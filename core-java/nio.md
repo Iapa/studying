@@ -47,3 +47,9 @@ These `Buffer`'s cover the basic data types that you can send via IO: byte, shor
 
 Java NIO also has a `MappedByteBuffer` which is used in conjunction with memory mapped files. I'll leave this `Buffer` out of this overview though.
 
+**Selectors**
+
+A `Selector` allows a single thread to handle multiple `Channel`'s This is handy if your application has many connections\(Channels\)open , but only has low traffic on each connection. For instance, in a chat server.
+
+
+
