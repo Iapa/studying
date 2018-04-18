@@ -17,6 +17,7 @@
   * [Bound Services](coreAndroid/bound-services.md)
   * [AIDL](coreAndroid/aidl.md)
   * [SufaceView](coreAndroid/sufaceview.md)
+  * [Tools Attr](coreAndroid/tools-attr.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)
