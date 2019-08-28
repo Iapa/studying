@@ -20,6 +20,7 @@
   * [Tools Attr](coreAndroid/tools-attr.md)
   * [Drawable](coreAndroid/drawable.md)
   * [performance monitor](coreAndroid/performance-monitor.md)
+  * [TextView](coreAndroid/textview.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)
