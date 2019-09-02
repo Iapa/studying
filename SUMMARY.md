@@ -33,4 +33,8 @@
   * [abstract vs interface](core-java/abstract-vs-interface.md)
 * [Core Kotlin](core-kotlin.md)
 * Core Linux
+* Core Nginx
+* Core Docker
+* Core Flutter
+* Core SICP
 
