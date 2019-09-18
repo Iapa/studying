@@ -32,7 +32,8 @@
   * [classLoader](core-java/classloader.md)
   * [abstract vs interface](core-java/abstract-vs-interface.md)
 * [Core Kotlin](core-kotlin.md)
-* Core Linux
+* [Core Linux](core-linux.md)
+  * [切换JAVA版本](core-linux/qie-huan-java-ban-ben.md)
 * Core Nginx
 * Core Docker
 * Core Flutter
