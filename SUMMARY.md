@@ -20,6 +20,7 @@
   * [Tools Attr](coreAndroid/tools-attr.md)
   * [Drawable](coreAndroid/drawable.md)
   * [performance monitor](coreAndroid/performance-monitor.md)
+  * [App startup time](coreAndroid/app-startup-time.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
   * [nio](core-java/nio.md)
@@ -32,4 +33,5 @@
   * [abstract vs interface](core-java/abstract-vs-interface.md)
 * [Core Kotlin](core-kotlin.md)
 * Core Linux
+* Core Flutter
 
