@@ -20,6 +20,7 @@
   * [Tools Attr](coreAndroid/tools-attr.md)
   * [Drawable](coreAndroid/drawable.md)
   * [performance monitor](coreAndroid/performance-monitor.md)
+  * [App startup time](coreAndroid/app-startup-time.md)
   * [TextView](coreAndroid/textview.md)
 * [Core Java](core-java.md)
   * [Sockt](core-java/sockt.md)
